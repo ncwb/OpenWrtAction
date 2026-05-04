@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/a708e1d9d7fca257a82c4f56daf0c9b25ef230b2...c69b21b16dda25807bf35ffe670170dea29aa042)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-c69b21b|David Mandy|Mon May 4 00:15:11 2026 +0800|ci: update dependency versions
-</details>
