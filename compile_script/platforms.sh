@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source_code_platforms=(openwrt immortalwrt lede)
+source_code_platforms=(lede)
 
 
 
@@ -15,7 +15,7 @@ openwrt_platforms=(X86)
 
 immortalwrt_platforms=(X86)
 
-lede_platforms=(X86)
+lede_platforms=(X86 618)
 
 
 copy_backgroundfiles_platforms=(X86)
