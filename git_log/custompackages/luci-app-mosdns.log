@@ -1,0 +1,9 @@
+<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/73aaccfd8b9583a1e52e59ee816417094d1493dd...09c0a3b0316468ab72be5366fcecb4c41e723688)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+09c0a3b|sbwml|Fri May 15 14:14:41 2026 +0800|luci-app-mosdns: fix release lock on failure and improve update luci
+</details>
