@@ -1,0 +1,12 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/9c93ca0dd340ff6ae31bb9d908e8933e0e46e114...2b66d689afe0d7e0ca79cd94c25edaa812c94688)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+2b66d689|coolsnowwolf|Sun Jun 14 18:20:26 2026 +0800|Merge pull request #1116 from smallprogram/master
+beb8cd40|coolsnowwolf|Sun Jun 14 18:19:01 2026 +0800|transmission: fix build with miniupnpc v21
+e3d5cda0|David Mandy|Fri Jun 12 02:17:43 2026 +0800|add line
+d9be2b9a|David Mandy|Mon Jun 8 10:10:03 2026 +0800|banip: update 1.8.8-5
+</details>
