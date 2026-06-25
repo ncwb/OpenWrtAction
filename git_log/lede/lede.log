@@ -1,18 +1,11 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/106d7358260f0578c9641d641d6b3f2bb3f8c340...bbe358fd816cc81d91285cc71047908960a130f2)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/bbe358fd816cc81d91285cc71047908960a130f2...aec2a6005f47bc4dcde00acaefbd32f62f43bf55)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-bbe358fd8|coolsnowwolf|Sat Mar 7 10:02:01 2026 +0800|qualcommax: add Xiaomi Redmi AX5400 support
-d055f8ba1|coolsnowwolf|Wed Mar 4 10:09:03 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
-883fd76b9|coolsnowwolf|Tue Mar 3 19:05:39 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 support
-c477e3e8f|coolsnowwolf|Tue May 19 17:07:06 2026 +0800|mac80211: add nss wireless offload support
-106d73582|coolsnowwolf|Sun Jun 21 02:21:30 2026 +0800|kernel: bump all to latest HEAD
-d73ddea87|coolsnowwolf|Sun Jun 21 00:52:59 2026 +0800|qualcommax: ipq60xx: add AnySafe E1 support
-d4d17560f|coolsnowwolf|Sun Jun 21 00:43:14 2026 +0800|qualcommax: ipq60xx: add Philips LY1800 (Double Fish AX1800) support
-3142861c1|coolsnowwolf|Sun Jun 21 00:17:20 2026 +0800|autocore: enable WiFi NSS status display
-7180cf71a|coolsnowwolf|Sun Jun 21 00:07:46 2026 +0800|mac80211: add nss wireless offload support for Qualcomm IPQ60xx/IPQ807x
-2bddcb5fa|coolsnowwolf|Sat Jun 20 23:13:51 2026 +0800|qualcommax: ipq60xx: use factory.bin as default uboot flashable ubi firmware
+aec2a6005|Luiz Angelo Daros de Luca|Sat May 16 18:32:04 2026 +0200|kernel: backport rtl8365mb driver improvements
+ea1ea5a2e|Mieczyslaw Nalewaj|Sun Dec 14 01:53:22 2025 +0100|package: gpio-button-hotplug: adapt to kernel 6.18
+aabbe6431|coolsnowwolf|Tue Jun 23 14:32:42 2026 +0800|qualcommax: ipq60xx: improve Qihoo 360V6 support
 </details>
