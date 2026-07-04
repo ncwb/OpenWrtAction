@@ -1,0 +1,9 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/771acca020019418d45a669c5d3bb0fcd55ca9a7...a11e66ca74a2d00fb8c6e950f43a4d05b4433559)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+a11e66ca7|Chen Minqiang|Fri Dec 12 10:58:16 2025 +0800|mediatek: add support for Tenda BE12 Pro
+</details>
