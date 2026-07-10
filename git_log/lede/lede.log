@@ -1,9 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/a8d998876fd26a42b0aab8515f52d6d068291c73...03c6123bb4bde7b4a6389aaf9b1cf838290ea95f)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-03c6123bb|Felix Fietkau|Wed Jul 1 13:14:40 2026 +0200|mt76: update to Git HEAD (2026-07-01)
-</details>
