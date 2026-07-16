@@ -1,9 +1,9 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/07e11248804c0d73f226add14934fc307e271377...fcf8f15a8ee5bf96487a26c0c78938788357896e)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/fcf8f15a8ee5bf96487a26c0c78938788357896e...21bfd88f2f0c74078e77690a266654875419c86d)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-fcf8f15a8|John Audia|Sat Jun 27 14:17:02 2026 -0400|linux-firmware: update to 20260622
+21bfd88f2|aiamadeus|Wed Jul 15 18:08:02 2026 +0800|rockchip: sync rk3528 upstream dts
 </details>
