@@ -1,0 +1,25 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/a9e5d98cd664917724dbfb0a31440e512ab45a1b...813a60a21fba2ec34c3a42f7fdc3d71b47694d25)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+813a60a2|vernesong|Mon Aug 3 13:41:44 2026 +0800|0.47.151
+b7ebd607|vernesong|Mon Aug 3 02:30:53 2026 +0800|0.47.150
+200f4663|vernesong|Sun Aug 2 03:38:28 2026 +0800|0.47.149
+9034c077|vernesong|Sat Aug 1 21:51:48 2026 +0800|chore: refine
+986209ca|vernesong|Sat Aug 1 02:30:05 2026 +0800|0.47.148
+a9b28626|vernesong|Fri Jul 31 15:39:10 2026 +0800|0.47.147
+82e2f8c7|vernesong|Thu Jul 30 11:30:15 2026 +0800|0.47.146
+c1d575cc|vernesong|Wed Jul 29 20:03:08 2026 +0800|0.47.145
+2141f5d5|dependabot[bot]|Wed Jul 29 19:50:43 2026 +0800|chore(deps): bump js-yaml in /luci-app-openclash/tools/codemirror (#5259)
+73e455bf|vernesong|Wed Jul 29 13:35:12 2026 +0800|0.47.144
+c84d2f48|vernesong|Wed Jul 29 02:17:13 2026 +0800|0.47.143
+6fb4812d|vernesong|Tue Jul 28 10:36:35 2026 +0800|0.47.142
+6dff4efe|vernesong|Tue Jul 28 01:47:18 2026 +0800|0.47.141
+789a8839|vernesong|Tue Jul 28 01:47:04 2026 +0800|chore: use stream polling for xhr
+93b1bda4|vernesong|Mon Jul 27 00:35:04 2026 +0800|0.47.140
+
+
+</details>
