@@ -6,7 +6,7 @@ export repos=(
 #  "src-git passwall https://github.com/Openwrt-Passwall/openwrt-passwall.git;main"
 #  "src-git passwall2 https://github.com/Openwrt-Passwall/openwrt-passwall2.git;main"
 #  "src-git helloworld https://github.com/fw876/helloworld;master"
-  "src-git OpenClash https://github.com/vernesong/OpenClash;master"
+  "src-git OpenClash https://github.com/vernesong/OpenClash;dev"
   "src-git socat https://github.com/chenmozhijin/luci-app-socat.git;main"
 #  "src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main"
 #  "src-git ghfu https://github.com/smallprogram/luci-app-ghfu.git;main"
