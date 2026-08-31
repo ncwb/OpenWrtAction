@@ -1,9 +1,25 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/f7fd86eaa58c29fed97da04ab219c74a835a9358...8e247d214f071ef0cb3a31c879d4daf224849d3e)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/8e247d214f071ef0cb3a31c879d4daf224849d3e...0909404f2d7f556851dd926010c4a0f5f8d1b63b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-8e247d214|Internet1235|Thu Aug 27 15:00:02 2026 +0800|kernel: refresh linux 6.18 patches
+0909404f2|coolsnowwolf|Mon Aug 31 11:46:51 2026 +0800|kirkwood: add testing kernel 6.18 support
+057b1a253|coolsnowwolf|Mon Aug 31 11:32:22 2026 +0800|netifd: fix source archive hash
+0ee2244a2|coolsnowwolf|Mon Aug 31 11:32:17 2026 +0800|udebug: fix source archive hash
+8bc399814|coolsnowwolf|Mon Aug 31 11:32:10 2026 +0800|ucode: fix source archive hash
+29afc8455|coolsnowwolf|Mon Aug 31 11:32:03 2026 +0800|uci: fix source archive hash
+9acb4c4a8|coolsnowwolf|Mon Aug 31 11:31:54 2026 +0800|ubus: fix source archive hash
+52e1cae10|coolsnowwolf|Mon Aug 31 11:31:51 2026 +0800|libubox: fix source archive hash
+0fcb66bc6|coolsnowwolf|Mon Aug 31 11:23:03 2026 +0800|ixp4xx: add kernel 6.18 target support
+c46009391|coolsnowwolf|Mon Aug 31 11:05:01 2026 +0800|ipq40xx: add testing kernel 6.18 support
+230fe4379|coolsnowwolf|Mon Aug 31 11:00:44 2026 +0800|wifi-scripts: add wireless configuration package
+3f0bbcdf7|coolsnowwolf|Mon Aug 31 10:42:21 2026 +0800|r8168: update to 8.056.02
+5284e8f8c|coolsnowwolf|Mon Aug 31 10:39:16 2026 +0800|arm-trusted-firmware-tools: update to 2.12
+30dfd640f|coolsnowwolf|Mon Aug 31 10:34:48 2026 +0800|cypress-firmware: normalize package version
+db625ee0d|coolsnowwolf|Mon Aug 31 10:24:55 2026 +0800|ath10k-ct-firmware: update to 2023.04.04
+82f83af29|coolsnowwolf|Mon Aug 31 10:21:44 2026 +0800|bcm27xx-utils: update to 2026.06.21
+
+
 </details>
