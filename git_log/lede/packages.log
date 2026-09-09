@@ -1,9 +1,9 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/808d968e6f3361809289d10b8bc4ae97b79cf820...bfa8c7882b66f89ce0b2c02fa03d3c9df44c7fcc)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/bfa8c7882b66f89ce0b2c02fa03d3c9df44c7fcc...bc0a5c06bcfcb7235bb93dbb5aa09e9b0e32b6f0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-bfa8c788|coolsnowwolf|Tue Sep 8 14:43:52 2026 +0800|softethervpn5: fix host build and update to 5.2.5188
+bc0a5c06|coolsnowwolf|Tue Sep 8 21:06:29 2026 +0800|Revert "transmission: use mbedTLS by default"
 </details>
