@@ -1,9 +1,11 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/bfa8c7882b66f89ce0b2c02fa03d3c9df44c7fcc...bc0a5c06bcfcb7235bb93dbb5aa09e9b0e32b6f0)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/bc0a5c06bcfcb7235bb93dbb5aa09e9b0e32b6f0...1e1c1aa100755bc05d72e7bd50a8233cd62dd25a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-bc0a5c06|coolsnowwolf|Tue Sep 8 21:06:29 2026 +0800|Revert "transmission: use mbedTLS by default"
+1e1c1aa1|coolsnowwolf|Thu Sep 10 21:38:36 2026 +0800|ovpn-backports: define out-of-tree module version
+fd49ace2|coolsnowwolf|Thu Sep 10 21:24:45 2026 +0800|owntone: support LuCI UCI configuration
+a2c1bbff|coolsnowwolf|Thu Sep 10 21:24:30 2026 +0800|sqlite3: fix exact library dependency on opkg
 </details>
