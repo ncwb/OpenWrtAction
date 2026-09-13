@@ -1,0 +1,11 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/109a1669ba549f2d4f87025807dd2fc3067b203d...85cf9c635f468ed8b6e30170210cc5521bf63252)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+85cf9c63|vernesong|Sat Sep 12 21:12:03 2026 +0800|0.47.164
+9fbf0b1c|vernesong|Sat Sep 12 15:07:25 2026 +0800|fix #5321
+05750457|vernesong|Sat Sep 12 14:35:40 2026 +0800|chore: use raw source for checksum
+</details>

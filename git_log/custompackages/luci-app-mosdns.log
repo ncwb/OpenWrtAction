@@ -1,0 +1,12 @@
+<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/c73c3da8a5ea28a9343aa11faf9b6c4e30f85cdb...fae49a28404a7cee309b47fccd920c3da7e81c2e)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+fae49a2|sbwml|Sat Sep 12 23:04:48 2026 +0800|mosdns: stats_api: do not mark upstream queries without answers as blocked
+73981c0|sbwml|Sat Sep 12 22:59:45 2026 +0800|luci-app-mosdns: statistics: add page jump and fix pagination layout
+0297087|sbwml|Sat Sep 12 00:05:37 2026 +0800|luci-app-mosdns: bump version to 1.7.14
+bf23eb0|sbwml|Sat Sep 12 00:00:58 2026 +0800|luci-app-mosdns: use 0.0.0.0 instead of reject 3 for ad blocking
+</details>
