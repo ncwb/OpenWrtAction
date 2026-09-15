@@ -1,9 +1,0 @@
-<details> <summary> <b>luci-app-mosdns new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/sbwml/luci-app-mosdns/compare/fae49a28404a7cee309b47fccd920c3da7e81c2e...bd40245303cd0ba56804d49eed5dbc4be2a082ca)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-bd40245|sbwml|Sun Sep 13 21:53:03 2026 +0800|luci-app-mosdns: mosdns.uc: correct mkdir path
-</details>

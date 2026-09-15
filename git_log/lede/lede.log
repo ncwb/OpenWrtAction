@@ -1,0 +1,10 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/cfc4a0d25a6440270deb028feece921e382ee5d7...611233e63e3e0aefbb6fbac67252e9c44791a7a9)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+611233e63|coolsnowwolf|Tue Sep 15 03:34:42 2026 +0800|kernel: update supported LTS kernels to latest releases
+8ea978aad|coolsnowwolf|Tue Sep 15 03:02:38 2026 +0800|qualcommax: fix Linux 6.18 patch and device tree compatibility
+</details>
