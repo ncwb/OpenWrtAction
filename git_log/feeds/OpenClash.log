@@ -1,0 +1,13 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/85cf9c635f468ed8b6e30170210cc5521bf63252...82d1ddc2da1d7e32b750fdd9a6bc76c6a5d9c418)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+82d1ddc2|vernesong|Sun Sep 20 00:50:32 2026 +0800|chore: add mips stack
+2e024e4d|vernesong|Sat Sep 19 02:58:14 2026 +0800|chore: fix typo
+e9f709a9|ちーちゃん|Sat Sep 19 01:58:11 2026 +0800|fix(core): add IPv6 fake-ip subnet route to utun device (#5327)
+d86f1638|Aethersailor|Sat Sep 19 01:39:21 2026 +0800|feat(dns): add selectable China domain data source (#5318)
+48c0b520|vernesong|Mon Sep 14 23:57:28 2026 +0800|chore: performance optimization
+</details>

@@ -1,9 +1,0 @@
-<details> <summary> <b>luci new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/f7dc02269a9e8c59f89bc245f66bfaba9c56b0aa...0fb07d4de6db4bae39cd5c6c399dec0f0dde3cc6)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-0fb07d4de6|coolsnowwolf|Wed Sep 16 12:29:43 2026 +0800|luci-app-wol: fix wake command execution
-</details>
