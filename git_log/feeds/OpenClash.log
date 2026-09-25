@@ -1,17 +1,10 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/82d1ddc2da1d7e32b750fdd9a6bc76c6a5d9c418...df40fe882600011c5fe3b8ed9e0b1ba6d6295208)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/df40fe882600011c5fe3b8ed9e0b1ba6d6295208...bdadf197c3dba589321f74a82ecfdb05ad25dabb)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
+bdadf197|vernesong|Wed Sep 23 02:10:58 2026 +0800|chore: module parse
 df40fe88|vernesong|Wed Sep 23 02:10:58 2026 +0800|chore: module parse
-7a87143d|imleeee|Wed Sep 23 00:52:53 2026 +0800| Fix: prevent shell expansion from corrupting regex in YAML override blocks (#5334)
-9e121dc8|ABobb414|Wed Sep 23 00:40:56 2026 +0800|docs: fix dead mihomo wiki link in user guide (#5332)
-97613a17|vernesong|Wed Sep 23 00:39:42 2026 +0800|chore: overwrite module page style
-011c2cd7|ABobb414|Wed Sep 23 00:34:22 2026 +0800|fix(i18n): remove duplicate entries and restore missing msgstr in po files (#5331)
-76f1a952|ABobb414|Wed Sep 23 00:32:39 2026 +0800|chore: fix truncated CONFIG_FILE name in overwrite/default (#5333)
-fb049037|vernesong|Sun Sep 20 12:06:58 2026 +0800|fix: uniq for chnroute pass domains
-7675901b|vernesong|Sun Sep 20 04:21:28 2026 +0800|0.47.165
-a805dd6e|vernesong|Sun Sep 20 04:19:21 2026 +0800|chore: add Google_Play module
 </details>
