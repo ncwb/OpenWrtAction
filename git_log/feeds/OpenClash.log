@@ -1,14 +1,11 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/bdadf197c3dba589321f74a82ecfdb05ad25dabb...3f6aa36308bb7f65844245944a8c469d9dd693b5)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/3f6aa36308bb7f65844245944a8c469d9dd693b5...ab017113a1457d89279508a45a35d0bfb8d345f0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
+ab017113|vernesong|Tue Sep 29 04:28:19 2026 +0800|chore: refine
+d7ad48eb|vernesong|Sun Sep 27 23:34:52 2026 +0800|chore: update skill
 3f6aa363|vernesong|Sun Sep 27 23:34:52 2026 +0800|chore: update skill
-be17bdbd|vernesong|Sun Sep 27 23:34:38 2026 +0800|chore: enable gso for tun
-aa7830bc|vernesong|Sun Sep 27 10:58:10 2026 +0800|chore: fix styles
-22abb8ec|vernesong|Sat Sep 26 22:27:46 2026 +0800|0.47.167
-e43de375|vernesong|Sat Sep 26 10:32:36 2026 +0800|0.47.166
-004dff06|vernesong|Sat Sep 26 07:01:53 2026 +0800|chore: add guide
 </details>

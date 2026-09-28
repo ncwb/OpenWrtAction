@@ -1,12 +1,10 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/3e89467745252d80fb1ecc252f88d02966582a05...7494809a0bf0493a67f9e92823a4716b1b5e797e)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/7494809a0bf0493a67f9e92823a4716b1b5e797e...60949633181e5bf7f9a35b5857204d6e39ce0d58)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7494809a0b|coolsnowwolf|Sun Sep 27 20:23:44 2026 +0800|luci-theme-design: add prioritized HomeProxy navbar shortcut
-dcb5f6bca8|coolsnowwolf|Sun Sep 27 19:23:49 2026 +0800|luci-theme-design: fix nftables text badge sizing
-69ecae6f3a|coolsnowwolf|Sun Sep 27 19:20:41 2026 +0800|luci-theme-design: left-align nftables rules
-393cc750ae|coolsnowwolf|Sat Sep 26 23:16:30 2026 +0800|luci-mod-status: restore online client detection
+6094963318|github-actions[bot]|Mon Sep 28 07:09:16 2026 +0000|ci: sync upstream luci applications
+ed9498374a|coolsnowwolf|Mon Sep 28 15:08:21 2026 +0800|ci: restore upstream LuCI application sync
 </details>

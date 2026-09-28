@@ -1,9 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/6bc2a94782a71906f4343f07f7bf4bf1b8788fd3...d376de0bb5b05ccf1cb51cabdb1687726cfa6aad)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/d376de0bb5b05ccf1cb51cabdb1687726cfa6aad...91498daa9de570b08cf5d5a711897b40a8c36b38)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-d376de0b|coolsnowwolf|Mon Sep 28 01:44:57 2026 +0800|pgyvpn: isolate bundled OpenSSL libraries
+91498daa|github-actions[bot]|Mon Sep 28 07:19:39 2026 +0000|ci: sync upstream packages
+a110c82b|coolsnowwolf|Mon Sep 28 15:19:17 2026 +0800|ci: restore upstream package sync and track sing-box releases
 </details>
