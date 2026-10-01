@@ -1,0 +1,9 @@
+<details> <summary> <b>lede new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/6248ca158b90d640ece2c1a56c392cb0c430b665...bfec801a42f344bb7566d1f4f8960fb0cdb08350)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+bfec801a4|coolsnowwolf|Thu Oct 1 09:40:07 2026 +0800|kernel: enable default support for installing daed
+</details>

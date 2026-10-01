@@ -1,11 +1,11 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/3f6aa36308bb7f65844245944a8c469d9dd693b5...ab017113a1457d89279508a45a35d0bfb8d345f0)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/ab017113a1457d89279508a45a35d0bfb8d345f0...95efcfc0d6415cee58364df647379ce9bbec73aa)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ab017113|vernesong|Tue Sep 29 04:28:19 2026 +0800|chore: refine
-d7ad48eb|vernesong|Sun Sep 27 23:34:52 2026 +0800|chore: update skill
-3f6aa363|vernesong|Sun Sep 27 23:34:52 2026 +0800|chore: update skill
+95efcfc0|vernesong|Wed Sep 30 15:42:45 2026 +0800|chore: guide style
+61ac74d3|vernesong|Wed Sep 30 12:06:16 2026 +0800|0.47.168
+8470a490|数字游牧人|Tue Sep 29 07:37:19 2026 +0800|fix: dispatch background restart via procd so it survives caller cgroup teardown (#5337)
 </details>
