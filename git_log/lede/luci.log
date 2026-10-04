@@ -1,16 +1,12 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/b4dade125b16d43d852c8b26cd93d2596701a2b4...abc91d9ec3ddc4dd515458fb7f69936977992f0e)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/abc91d9ec3ddc4dd515458fb7f69936977992f0e...75e79308cb10e2948db601d0ccedef6b2b6cba4e)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-abc91d9ec3|github-actions[bot]|Sat Oct 3 08:06:59 2026 +0000|ci: sync upstream luci applications
-619ef7a586|coolsnowwolf|Sat Oct 3 15:27:12 2026 +0800|luci-app-ksmbd: add hostname setting
-cb0468202e|coolsnowwolf|Sat Oct 3 15:21:58 2026 +0800|luci-mod-status: fix WAN rates with flow offloading
-1c1ef7d6da|coolsnowwolf|Sat Oct 3 15:06:26 2026 +0800|luci-app-ksmbd: align network sharing options with Samba
-0e4103363f|coolsnowwolf|Sat Oct 3 14:47:54 2026 +0800|luci-app-ksmbd: add service enable switch
-109b024f17|coolsnowwolf|Sat Oct 3 13:31:09 2026 +0800|luci-app-ksmbd: enable guest IPC access by default
-db263d56a4|coolsnowwolf|Fri Oct 2 21:27:16 2026 +0800|luci-app-firewall: add MediaTek HNAT offloading mode
-21dd3c524d|github-actions[bot]|Fri Oct 2 08:32:56 2026 +0000|ci: sync upstream luci applications
+75e79308cb|coolsnowwolf|Sun Oct 4 22:40:35 2026 +0800|luci-mod-status: avoid stopping QCA APs during channel scans
+5af41275c0|coolsnowwolf|Sun Oct 4 21:54:02 2026 +0800|luci: fix iwinfo device resolution and empty association probes
+de2410c92b|github-actions[bot]|Sun Oct 4 08:27:45 2026 +0000|ci: sync upstream luci applications
+1070ce34b3|coolsnowwolf|Sun Oct 4 12:04:14 2026 +0800|luci-app-ksmbd: add umdns and nbnsd for LAN discovery
 </details>
