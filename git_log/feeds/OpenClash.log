@@ -1,0 +1,19 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/a4cc9b77357a2161641a928c879fcdb29d7291d3...4677ac13d2100c2b6792272b9870270a13c33e30)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+4677ac13|vernesong|Thu Oct 8 04:49:16 2026 +0800|fix #5344
+9883813b|vernesong|Thu Oct 8 01:59:58 2026 +0800|fix #5343
+98710c6e|vernesong|Wed Oct 7 07:42:15 2026 +0800|0.47.170
+03741d98|vernesong|Wed Oct 7 06:58:27 2026 +0800|chore: add unlock info mode for myip module
+33b42767|vernesong|Tue Oct 6 13:00:45 2026 +0800|fix #5340
+32f2cb25|vernesong|Tue Oct 6 11:41:22 2026 +0800|chore: adjust style
+5c378824|vernesong|Tue Oct 6 11:32:37 2026 +0800|chore: disable TCP Fast Open blackhole timeout for some builds
+66da7c29|vernesong|Mon Oct 5 07:01:23 2026 +0800|0.47.169
+48d202dd|dependabot[bot]|Mon Oct 5 06:09:00 2026 +0800|chore(deps): bump js-yaml in /luci-app-openclash/tools/codemirror (#5339)
+588cec56|vernesong|Sat Oct 3 01:50:27 2026 +0800|chore: refine codes
+a4cc9b77|vernesong|Sat Oct 3 01:50:27 2026 +0800|chore: refine codes
+</details>
