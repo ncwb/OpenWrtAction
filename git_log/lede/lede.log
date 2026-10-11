@@ -1,14 +1,14 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/c312460dcbb5cc8000256dcfdd083d862d256ee4...83d2710872fbbc73e92be150b9fa95d197f91f70)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/83d2710872fbbc73e92be150b9fa95d197f91f70...d5ccef5f796981c79811f27722596173482a35e3)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-83d271087|coolsnowwolf|Wed Oct 7 20:25:33 2026 +0800|default-settings: generate revision in Beijing time
-0bf8f083b|coolsnowwolf|Wed Oct 7 15:55:27 2026 +0800|qualcommax: refresh patches for Linux 6.12.112
-11d67efe2|coolsnowwolf|Wed Oct 7 15:44:40 2026 +0800|mediatek: add support for CLX S20L
-f9afd0ed6|coolsnowwolf|Wed Oct 7 03:52:35 2026 +0800|kernel: fix nft flow offload with unknown forward paths
-88f08888b|coolsnowwolf|Mon Oct 5 21:49:42 2026 +0800|mvebu: scope IEI MCU sources to Linux 6.18
-7fc382c1e|coolsnowwolf|Mon Oct 5 10:41:17 2026 +0800|rockchip: fix NanoPi R28S PCIe Ethernet
+d5ccef5f7|coolsnowwolf|Sun Oct 11 21:02:31 2026 +0800|tools: firmware-utils: update to Git HEAD (2026-09-30)
+27d57f45e|coolsnowwolf|Sun Oct 11 13:45:45 2026 +0800|ath10k-ct: fix fortify build error on Linux 6.6
+02629de75|coolsnowwolf|Sun Oct 11 13:45:37 2026 +0800|ath79: fix builds with shared driver sources
+73bc2d2fe|DoveKi|Sun Oct 11 13:03:25 2026 +0800|mediatek: add stock layout support for Redmi Router AX6000 (#14212)
+1d585dc90|coolsnowwolf|Fri Oct 9 03:19:17 2026 +0800|mediatek: complete TL-7DR7299 v1 Ethernet and upgrade support
+4b159f4ca|coolsnowwolf|Thu Oct 8 12:15:50 2026 +0800|kernel: fix resolve_btfids host libelf detection on 5.10
 </details>
