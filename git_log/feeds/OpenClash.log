@@ -1,15 +1,25 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/4677ac13d2100c2b6792272b9870270a13c33e30...e553e82e01c697aefbe1555261a503f425e00ccd)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/e553e82e01c697aefbe1555261a503f425e00ccd...5c6743623f7fa1cf3180ed18b930f6c25d700d22)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-e553e82e|vernesong|Sun Oct 11 13:10:57 2026 +0800|0.48.002
-e5018342|vernesong|Sun Oct 11 05:55:11 2026 +0800|chore: remove upload file size limit
-773bbdb5|vernesong|Sat Oct 10 11:44:24 2026 +0800|0.48.001
-407ebe4c|vernesong|Sat Oct 10 11:42:47 2026 +0800|chore: refine style
-f760b443|vernesong|Fri Oct 9 12:04:16 2026 +0800|chore: add Tailscale & WiFi_Calling module
-7144dd66|vernesong|Thu Oct 8 12:15:27 2026 +0800|0.47.171
-b425840d|vernesong|Thu Oct 8 07:28:29 2026 +0800|chore: refine
+5c674362|vernesong|Fri Oct 16 09:50:19 2026 +0800|0.48.006
+21aa0ac1|vernesong|Fri Oct 16 08:30:03 2026 +0800|chore: style
+f118134a|vernesong|Thu Oct 15 21:08:23 2026 +0800|chore: update skill
+7ff6ffd2|vernesong|Thu Oct 15 16:04:51 2026 +0800|0.48.005
+fd81d978|vernesong|Thu Oct 15 16:04:05 2026 +0800|chore: add disable_tun_gso option
+dcdf000b|vernesong|Thu Oct 15 13:30:29 2026 +0800|chore: res download check
+ac3c7bf1|vernesong|Thu Oct 15 12:52:07 2026 +0800|fix #5354
+b934bd28|vernesong|Thu Oct 15 12:39:09 2026 +0800|chore: bridge-nf-call-iptables setting
+0c2436de|vernesong|Thu Oct 15 10:55:23 2026 +0800|chore: set tcp_fastopen to 3 default
+373d0023|pickrui|Wed Oct 14 21:10:37 2026 +0800|fix(oix): preserve configs when subscription validation fails (#5353)
+75d34d00|vernesong|Wed Oct 14 19:17:15 2026 +0800|fix: file name safe check
+103cf68f|vernesong|Wed Oct 14 17:43:33 2026 +0800|0.48.004
+0201d30f|vernesong|Wed Oct 14 12:26:26 2026 +0800|chore: refine style
+d52b0ade|vernesong|Wed Oct 14 12:25:35 2026 +0800|#5352
+130f59ac|Patrick Gu|Tue Oct 13 22:40:14 2026 +0800|fix(ui): prevent Area Bypass labels from wrapping (#5349)
+
+
 </details>
