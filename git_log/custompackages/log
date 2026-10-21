@@ -13,5 +13,5 @@ luci-app-alpha-config:e3f1dab7abf775be66846008b6aff7c62619ba35
 luci-theme-material3:38397ed978b0f9ed2d82b73d52c9a7c6bbd023ad
 luci-theme-alpha-reborn:9f863bdc99a0c2a34fdd20ba6fce0a07335c474a
 netspeedtest:0c936e9dd513b2915229871b088b85ca817f5083
-luci-app-bandix-plus:bac0f0980b6f9eaa601d014c03456853c5993605
-openwrt-bandix-plus:87fc76466b775059127be9b850e708c485afc8dc
+luci-app-bandix-plus:c4f002f74f3a0f4aeb79fb5d35f5a7bbd3392a1f
+openwrt-bandix-plus:fba9704300f2900451e00a1645e11b1f179204b8
