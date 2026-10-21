@@ -28,7 +28,7 @@ fi
 rm -rf ./feeds/packages/net/open-app-filter
 
 #Modify CPU Optimization Settings
-sed -i 's/CPU_CFLAGS = -Os -pipe/CPU_CFLAGS = -O3 -mtune=generic -pipe/g' include/target.mk
+# sed -i 's/CPU_CFLAGS = -Os -pipe/CPU_CFLAGS = -O3 -mtune=generic -pipe/g' include/target.mk
 
 # Modify default IP
 sed -i 's/192.168.1.1/10.0.0.1/g' package/base-files/files/bin/config_generate
