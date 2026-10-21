@@ -1,4 +1,4 @@
-luci-theme-argon:c4a8b4eadcd17cad348a1312954a4852c21395f6
+luci-theme-argon:915602d22e3d2098a285d02e55fdea77ea86b59a
 luci-app-argon-config:445af53fbee6e00fa6efc0ae33f8b2854df65500
 luci-theme-kucat:1c8e7f7c1052552f4fac09d60e5adc07ed33bfa3
 luci-app-kucat-config:e51de5e4f9c98c234777c26948ff454a2ae3dc99
@@ -13,5 +13,5 @@ luci-app-alpha-config:e3f1dab7abf775be66846008b6aff7c62619ba35
 luci-theme-material3:38397ed978b0f9ed2d82b73d52c9a7c6bbd023ad
 luci-theme-alpha-reborn:9f863bdc99a0c2a34fdd20ba6fce0a07335c474a
 netspeedtest:0c936e9dd513b2915229871b088b85ca817f5083
-luci-app-bandix-plus:b491618e897e8c03b9a7096dffb8c962b0b65e78
+luci-app-bandix-plus:bac0f0980b6f9eaa601d014c03456853c5993605
 openwrt-bandix-plus:87fc76466b775059127be9b850e708c485afc8dc
