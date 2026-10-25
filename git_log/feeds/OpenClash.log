@@ -1,0 +1,13 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/25673268f686b3c09162310841bc1644df4af8a9...74ff5be54933881289ac383d457115dcdd93b135)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+74ff5be5|vernesong|Sat Oct 24 18:40:59 2026 +0800|chore: update sub_ini.list
+bb8f5acf|pickrui|Fri Oct 23 09:30:12 2026 +0800|fix(oix): explain subscription binding for manually created tokens (#5369)
+857af11c|vernesong|Fri Oct 23 09:21:58 2026 +0800|fix: route untimestamped log lines to the core log
+b95d0862|vernesong|Fri Oct 23 00:04:58 2026 +0800|chore: update install.sh
+7a0e81a1|vernesong|Thu Oct 22 12:36:37 2026 +0800|chore: add subscribe schedule tab for config card
+</details>
