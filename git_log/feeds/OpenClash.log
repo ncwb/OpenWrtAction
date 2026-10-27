@@ -1,0 +1,25 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/e553e82e01c697aefbe1555261a503f425e00ccd...b9e6bfc85b074e89922a67447fb4b88638d3781e)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+b9e6bfc8|vernesong|Mon Oct 26 06:17:21 2026 +0800|0.48.011
+ac912535|vernesong|Mon Oct 26 05:43:43 2026 +0800|chore: refresh empty providers
+56571c39|vernesong|Mon Oct 26 05:10:42 2026 +0800|0.48.010
+73f3abdb|vernesong|Mon Oct 26 05:09:26 2026 +0800|chore: bugs fix
+74ff5be5|vernesong|Sat Oct 24 18:40:59 2026 +0800|chore: update sub_ini.list
+bb8f5acf|pickrui|Fri Oct 23 09:30:12 2026 +0800|fix(oix): explain subscription binding for manually created tokens (#5369)
+857af11c|vernesong|Fri Oct 23 09:21:58 2026 +0800|fix: route untimestamped log lines to the core log
+b95d0862|vernesong|Fri Oct 23 00:04:58 2026 +0800|chore: update install.sh
+7a0e81a1|vernesong|Thu Oct 22 12:36:37 2026 +0800|chore: add subscribe schedule tab for config card
+25673268|vernesong|Wed Oct 21 12:16:48 2026 +0800|chore: remove old sub option
+4983173b|vernesong|Wed Oct 21 11:11:20 2026 +0800|fix: dashboard switch
+2ae8e329|vernesong|Wed Oct 21 09:13:05 2026 +0800|0.48.009
+a4b70735|vernesong|Wed Oct 21 00:31:09 2026 +0800|fix #5359
+88fa49a2|Patrick Gu|Tue Oct 20 21:49:57 2026 +0800|refactor(config): consolidate configuration actions and streamline overflow menu (#5364)
+ae9369c8|vernesong|Tue Oct 20 21:31:17 2026 +0800|chore: config subscribe config option
+
+
+</details>

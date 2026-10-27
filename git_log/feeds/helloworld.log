@@ -1,6 +1,6 @@
 <details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/fw876/helloworld/compare/4e4dee0c0634ea6846d8e04f483fed675c3a0567...31b180df838e456bb36036bb8791f569af0fd661)  
+#### [:mega: Full Changelog. ](https://github.com/fw876/helloworld/compare/2abdc9aa9e19607774dc9789709212b70b8607c6...31b180df838e456bb36036bb8791f569af0fd661)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
@@ -17,4 +17,9 @@ bb3bf44|coolsnowwolf|Thu Oct 22 10:48:20 2026 +0800|xray-core: use selected Go t
 80d7bff|coolsnowwolf|Thu Oct 22 02:02:50 2026 +0800|luci-app-ssr-plus: bump version to v198.1
 8547820|coolsnowwolf|Thu Oct 22 01:47:19 2026 +0800|xray-core: update to 26.10.21 and accelerate AN7581 AES-GCM
 b87e1d6|coolsnowwolf|Thu Oct 22 00:46:18 2026 +0800|ci: fix Cronet linker selection and SDK configuration cycle
+4e4dee0|coolsnowwolf|Wed Oct 21 17:10:39 2026 +0800|ci: fix Xray preparation and require complete release builds
+f681871|coolsnowwolf|Wed Oct 21 12:41:17 2026 +0800|xray-core: add Kcptun transport and LuCI settings
+a8d8c74|coolsnowwolf|Wed Oct 21 12:17:29 2026 +0800|xray-core: add ShadowTLS transport and LuCI configuration
+
+
 </details>
