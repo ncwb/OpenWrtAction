@@ -1,0 +1,10 @@
+<details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/61cbd8698f350c33b6e8de8db80b6704eff69d18...fcd519ec9627d20bc385f5059fcd36cb123ed217)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+fcd519ec|A-BO|Tue Oct 27 22:09:28 2026 +0800|luci: unify node list filter control heights across themes
+906f4f8c|A-BO|Tue Oct 27 20:33:53 2026 +0800|luci: cache sing-box build tags alongside version
+</details>

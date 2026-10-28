@@ -1,10 +1,9 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/3f7352d94a61a4c8b77dc8a3a7e67c1fa7181a17...4c7262d2a09b1116e032817d41f689be87d9c5a6)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/4c7262d2a09b1116e032817d41f689be87d9c5a6...eb82901b80ecea7f550f901268991d21cff6e89c)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-4c7262d2a0|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci: resolve QCA runtime VAPs and restore wireless controls
-5d7fa96221|coolsnowwolf|Tue Oct 27 07:40:24 2026 +0800|luci-base: detect IPQ40xx native DESS flow offload
+eb82901b80|coolsnowwolf|Wed Oct 28 03:42:59 2026 +0800|luci-mod-network: fix QCA scan targets and HE160 width detection
 </details>
