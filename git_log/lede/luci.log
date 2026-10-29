@@ -1,9 +1,10 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/4c7262d2a09b1116e032817d41f689be87d9c5a6...eb82901b80ecea7f550f901268991d21cff6e89c)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/eb82901b80ecea7f550f901268991d21cff6e89c...fea197c306bc40dc5168657af6a81f3875517656)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-eb82901b80|coolsnowwolf|Wed Oct 28 03:42:59 2026 +0800|luci-mod-network: fix QCA scan targets and HE160 width detection
+fea197c306|coolsnowwolf|Thu Oct 29 02:16:58 2026 +0800|luci-app-firewall: expose Qualcomm NSS ECM offloading
+ace2bebe51|github-actions[bot]|Wed Oct 28 08:33:59 2026 +0000|ci: sync upstream luci applications
 </details>

@@ -1,0 +1,13 @@
+<details> <summary> <b>packages new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/12fe94094ea44d0d7fcce2841f0405c473e4cd4e...1493192cc360fcb06886ee73117629651df4ff30)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+1493192c|coolsnowwolf|Thu Oct 29 09:57:46 2026 +0800|pon: support Airoha BSP packages on Linux 6.18
+592c03cc|coolsnowwolf|Thu Oct 29 04:04:15 2026 +0800|luci-app-pon: distinguish unavailable services from invalid status JSON
+162de122|coolsnowwolf|Thu Oct 29 04:04:15 2026 +0800|airoha-pon-frontends: register BSP NVMEM cells on Linux 7.3
+70191654|coolsnowwolf|Thu Oct 29 02:54:52 2026 +0800|airoha-xpon: include the hex parser header directly
+ba57cef3|coolsnowwolf|Thu Oct 29 02:07:42 2026 +0800|pon: add independent Airoha BSP Linux 7.3 patch stacks
+</details>
