@@ -1,14 +1,12 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/fcd519ec9627d20bc385f5059fcd36cb123ed217...ff82e10c6b380104d06709b1bff7e9dea365daf3)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/ff82e10c6b380104d06709b1bff7e9dea365daf3...78da09faf0ecc4d63cd68a431814c060c86b6080)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ff82e10c|A-BO|Thu Oct 29 00:30:38 2026 +0800|luci: bump 26.10.29
-1a98d739|A-BO|Thu Oct 29 00:29:12 2026 +0800|luci: update default rules
-4a93f542|A-BO|Thu Oct 29 00:00:19 2026 +0800|luci: fix update failures on legacy LuCI
-4d9ea4b9|A-BO|Wed Oct 28 22:50:17 2026 +0800|luci: replace node-list custom modal group dropdowns with native LuCI widgets
-f987bb91|A-BO|Wed Oct 28 21:17:45 2026 +0800|luci: optimize
-f290223d|iIl1o0O304|Wed Oct 28 11:14:47 2026 +0800|luci: set QUIC max window size to the same value as init for Hysteria2/Xray (#4503)
+78da09fa|A-BO|Fri Oct 30 21:42:38 2026 +0800|luci: normalize app update row spacing across themes
+997e2f1c|A-BO|Fri Oct 30 08:57:55 2026 +0800|luci: fix mkcp-legacy entry order in Xray finalmask
+d5795638|A-BO|Thu Oct 29 20:59:41 2026 +0800|luci: enhance app version display with additional styling
+4dbe7ce4|A-BO|Thu Oct 29 19:20:02 2026 +0800|luci: move installation cache cleanup to uci-defaults
 </details>

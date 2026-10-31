@@ -1,0 +1,14 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/b9e6bfc85b074e89922a67447fb4b88638d3781e...abd004ff697d1b7be6adbc35a1e17aed1835cabb)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+abd004ff|vernesong|Sat Oct 31 00:56:33 2026 +0800|0.48.012
+5b6737d0|vernesong|Fri Oct 30 23:29:40 2026 +0800|chore: update skill
+0dbbfeb4|vernesong|Fri Oct 30 23:29:09 2026 +0800|chore: adjust pref for mwan3
+a0ac7ff7|vernesong|Fri Oct 30 22:16:12 2026 +0800|fix #5378
+2cd5ad98|pickrui|Fri Oct 30 20:15:20 2026 +0800|fix(groups): preserve saved groups and synchronize renamed rule targets (#5376)
+6179c8ef|vernesong|Thu Oct 29 16:24:34 2026 +0800|fix: hbo unlock test
+</details>
