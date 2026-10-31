@@ -1,12 +1,9 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/ff82e10c6b380104d06709b1bff7e9dea365daf3...78da09faf0ecc4d63cd68a431814c060c86b6080)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/78da09faf0ecc4d63cd68a431814c060c86b6080...c873b70eee09541b8ed69c1dcf750ada5b5aeeb6)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-78da09fa|A-BO|Fri Oct 30 21:42:38 2026 +0800|luci: normalize app update row spacing across themes
-997e2f1c|A-BO|Fri Oct 30 08:57:55 2026 +0800|luci: fix mkcp-legacy entry order in Xray finalmask
-d5795638|A-BO|Thu Oct 29 20:59:41 2026 +0800|luci: enhance app version display with additional styling
-4dbe7ce4|A-BO|Thu Oct 29 19:20:02 2026 +0800|luci: move installation cache cleanup to uci-defaults
+c873b70e|A-BO|Sat Oct 31 12:51:04 2026 +0800|luci: normalize whitespace
 </details>

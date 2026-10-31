@@ -1,11 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/1493192cc360fcb06886ee73117629651df4ff30...e615b74949cb66f87167f3352e4baec72c802f93)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/e615b74949cb66f87167f3352e4baec72c802f93...d2aeba055a0d978e3f74d1c0b414940d297165ee)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-e615b749|coolsnowwolf|Sat Oct 31 01:46:40 2026 +0800|node: preserve Highway compiler target exclusions
-0cfc5edc|coolsnowwolf|Sat Oct 31 00:13:56 2026 +0800|xray-core: update to 26.10.29 and refresh patches
-a5e66a9c|coolsnowwolf|Thu Oct 29 21:18:07 2026 +0800|xray-core: support legacy and library GHASH EIP93 backends
+d2aeba05|coolsnowwolf|Sat Oct 31 16:06:26 2026 +0800|airoha-xpon: retain mainline and BSP PCS APIs on Linux 6.18
+c3b018cf|coolsnowwolf|Sat Oct 31 12:40:16 2026 +0800|mihomo: bump to 1.19.33 and support Linux 7.3 EIP93
 </details>
