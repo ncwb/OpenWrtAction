@@ -1,17 +1,25 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/9c6d0c407ed399d8145bb074443c9fde4d39621f...1e71a219ca01c5e8706f1ce6a2305f8b5389211b)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/1e71a219ca01c5e8706f1ce6a2305f8b5389211b...ed6d6c14cfa12a11db57526487149e45762be527)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-1e71a219c|coolsnowwolf|Sat Oct 31 21:42:35 2026 +0800|airoha: replace Nokia XG-040G-MF with the UBI profile
-98b3eed3e|coolsnowwolf|Sat Oct 31 18:49:30 2026 +0800|airoha: add Gemtek XG2010G and XR1710G support
-72dd45919|coolsnowwolf|Sat Oct 31 17:24:37 2026 +0800|airoha: add ZNXT ZN515XG-D and ZN504XG-D support
-89406dfa1|coolsnowwolf|Sat Oct 31 16:53:38 2026 +0800|airoha: add H3C HM2004-DU support
-c4c0363c5|coolsnowwolf|Sat Oct 31 16:33:35 2026 +0800|airoha: add FiberHome HG5382A support
-7db2ab662|coolsnowwolf|Sat Oct 31 16:17:34 2026 +0800|airoha: add Nokia XG-040G-TF UBI and complete Nokia PON support
-ca2d4e87a|coolsnowwolf|Sat Oct 31 16:06:44 2026 +0800|airoha: add FiberHome HG5585F CT and CU
-3cb7960ff|coolsnowwolf|Sat Oct 31 15:40:43 2026 +0800|airoha: refresh Linux 6.18 and switch Nokia XG-040G-MD to UBI
-f69300193|coolsnowwolf|Sat Oct 31 10:57:04 2026 +0800|kernel: fix CVE-2026-98432 for Linux 5.4
+ed6d6c14c|coolsnowwolf|Mon Nov 2 02:31:44 2026 +0800|armsr: merge Qualcomm boards into unified ARMv8 EFI images
+471321693|coolsnowwolf|Mon Nov 2 01:24:51 2026 +0800|qualcommbe: add IPQ53xx and refresh Linux 6.18 PPE and wireless support
+f79eaf116|coolsnowwolf|Mon Nov 2 00:08:35 2026 +0800|bmips: port generic and nand targets to Linux 6.18
+35ac9ba21|coolsnowwolf|Sun Nov 1 23:54:28 2026 +0800|microchipsw: complete Linux 6.18 switch support and validation
+3ec7fb0b5|coolsnowwolf|Sun Nov 1 23:47:05 2026 +0800|siflower: switch default kernel to 6.18
+1f5499298|coolsnowwolf|Sun Nov 1 23:40:06 2026 +0800|realtek: sync upstream support and default to Linux 6.18
+3c22d155f|coolsnowwolf|Sun Nov 1 22:43:26 2026 +0800|uml: switch default kernel to 6.18
+0b965a5f6|coolsnowwolf|Sun Nov 1 22:40:12 2026 +0800|octeontx: switch default kernel to 6.18
+4ccf907a5|coolsnowwolf|Sun Nov 1 22:35:14 2026 +0800|ath25: switch default kernel to 6.18
+da1b8856c|coolsnowwolf|Sun Nov 1 22:24:22 2026 +0800|archs38: switch default kernel to 6.18
+e7958d8bc|coolsnowwolf|Sun Nov 1 22:02:46 2026 +0800|arc770: switch default kernel to 6.18
+b3f23735f|coolsnowwolf|Sun Nov 1 21:30:04 2026 +0800|lantiq: switch default kernel to 6.18
+c1f9f9185|coolsnowwolf|Sun Nov 1 21:12:32 2026 +0800|layerscape: switch default kernel to 6.18
+050365238|coolsnowwolf|Sun Nov 1 21:05:37 2026 +0800|bcm27xx: switch default kernel to 6.18
+7b1b26b85|coolsnowwolf|Sun Nov 1 20:43:17 2026 +0800|starfive: switch default kernel to 6.18
+
+
 </details>
