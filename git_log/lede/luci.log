@@ -1,0 +1,9 @@
+<details> <summary> <b>luci new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/04bdb60fc11343d62916c530422a8971ffa73d42...7b675b70777235fb636a4a2fd0e143cadb3bb992)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+7b675b7077|coolsnowwolf|Fri Nov 6 10:36:12 2026 +0800|luci-app-firewall: add Airoha PPE binding threshold setting
+</details>
