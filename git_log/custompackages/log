@@ -1,4 +1,4 @@
-luci-theme-argon:378db9f62bdc843cc71c58a9c01f94b817508c66
+luci-theme-argon:c6d63bd68aa9272e40c35cee5e615f45cc1e4eb0
 luci-app-argon-config:445af53fbee6e00fa6efc0ae33f8b2854df65500
 luci-theme-kucat:1c8e7f7c1052552f4fac09d60e5adc07ed33bfa3
 luci-app-kucat-config:e51de5e4f9c98c234777c26948ff454a2ae3dc99
@@ -19,4 +19,4 @@ luci-app-ddns-go:7092e6de6ad9fe3f7d327f70468dfd19e00d6f0e
 openwrt-smartdns:4be700dc3366275605a2a1996865d83ea9bb9a18
 luci-app-smartdns:8f0c70281189fbdc1cd102bc134c1f6cac3a4640
 luci-theme-7dollar:1bc9e70226f8caf3e9522d6e61e057baffb21876
-luci-theme-vantage:e35a8e7f4313103d3f15c6ba2201e72525b23ad0
+luci-theme-vantage:805beae0f8f1d09b2f1f17120196d1dd556fddc8
