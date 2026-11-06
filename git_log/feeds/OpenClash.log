@@ -1,0 +1,25 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/e553e82e01c697aefbe1555261a503f425e00ccd...3b4ec32c747c52aea1501e3b6d1b66c604715410)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+3b4ec32c|vernesong|Fri Nov 6 09:14:33 2026 +0800|fix: keep overview statistics when the stats websocket is unavailable (#5387)
+c6484df2|vernesong|Thu Nov 5 22:20:04 2026 +0800|chore: refine
+c5c7bfa6|vernesong|Wed Nov 4 05:52:18 2026 +0800|0.48.013
+28f6f130|vernesong|Wed Nov 4 05:38:44 2026 +0800|fix #5379 #5381
+4d007119|pickrui|Tue Nov 3 18:13:49 2026 +0800|feat(oix): sign in to oixCloud with Google (#5380)
+2d55ea07|vernesong|Mon Nov 2 12:10:40 2026 +0800|chore: add DDNS module
+4e668a09|vernesong|Mon Nov 2 02:10:20 2026 +0800|chore: refine
+19d5e869|vernesong|Mon Nov 2 02:10:06 2026 +0800|chore: add BT_PT_Download module
+abd004ff|vernesong|Sat Oct 31 00:56:33 2026 +0800|0.48.012
+5b6737d0|vernesong|Fri Oct 30 23:29:40 2026 +0800|chore: update skill
+0dbbfeb4|vernesong|Fri Oct 30 23:29:09 2026 +0800|chore: adjust pref for mwan3
+a0ac7ff7|vernesong|Fri Oct 30 22:16:12 2026 +0800|fix #5378
+2cd5ad98|pickrui|Fri Oct 30 20:15:20 2026 +0800|fix(groups): preserve saved groups and synchronize renamed rule targets (#5376)
+6179c8ef|vernesong|Thu Oct 29 16:24:34 2026 +0800|fix: hbo unlock test
+b9e6bfc8|vernesong|Mon Oct 26 06:17:21 2026 +0800|0.48.011
+
+
+</details>
