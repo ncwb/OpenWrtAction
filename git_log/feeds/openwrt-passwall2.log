@@ -1,0 +1,10 @@
+<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/2c58e9a5dcec968cc7c2dc9c8fd3e8ae12f34bb1...edef18ec550432b446423a6b61f5a086062e9bdc)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+edef18e|A-BO|Sat Nov 7 01:24:58 2026 +0800|luci: fix share link host parsing and default ports
+4a7ecc1|A-BO|Fri Nov 6 23:59:56 2026 +0800|luci: fix double URL decoding of Shadowsocks passwords
+</details>
