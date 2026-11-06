@@ -1,13 +1,9 @@
 <details> <summary> <b>luci-theme-vantage new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/anothaDev/luci-theme-vantage/compare/e35a8e7f4313103d3f15c6ba2201e72525b23ad0...805beae0f8f1d09b2f1f17120196d1dd556fddc8)  
+#### [:mega: Full Changelog. ](https://github.com/anothaDev/luci-theme-vantage/compare/805beae0f8f1d09b2f1f17120196d1dd556fddc8...9d6669ca006c4df8a14581854e3171e368700cb5)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-805beae|anothaDev|Fri Nov 6 11:43:30 2026 +0100|Release manifest for v1.0.16 (#95)
-aba6a45|anothaDev|Fri Nov 6 11:38:04 2026 +0100|Add the promo video to the landing page (#96)
-a0ed5b6|anothaDev|Fri Nov 6 10:54:49 2026 +0100|Release 1.0.16 (#94)
-20bf0c9|anothaDev|Fri Nov 6 10:49:38 2026 +0100|Fix what the 1.0.16 review found (#93)
-61a0096|anothaDev|Fri Nov 6 08:59:23 2026 +0100|Appearance saved on the router, for every browser (#89); simpler README (#91)
+9d6669c|anothaDev|Fri Nov 6 12:17:15 2026 +0100|Add the promo as an animated image at the top of the README (#97)
 </details>
