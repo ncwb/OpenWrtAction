@@ -1,9 +1,0 @@
-<details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/c5894c4e0b5c984d6eabccbd009ebfcd78d1d621...2c58e9a5dcec968cc7c2dc9c8fd3e8ae12f34bb1)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-2c58e9a|A-BO|Fri Nov 6 23:17:41 2026 +0800|luci: fix Naive share link userinfo parsing
-</details>
