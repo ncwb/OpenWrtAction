@@ -30,6 +30,9 @@ rm -rf ./feeds/packages/net/open-app-filter
 # Modify default IP
 sed -i 's/192.168.1.1/10.10.0.1/g' package/base-files/files/bin/config_generate
 
+#Modify GHFU Default Address
+sed -i 's/smallprogram/ncwb/g' feeds/ghfu/luci-app-ghfu/root/etc/uci-defaults/99-ghfu-defaults
+
 # Modify default passwd
 sed -i '/$1$V4UetPzk$CYXluq4wUazHjmCDBCqXF./ d' package/lean/default-settings/files/zzz-default-settings
 
