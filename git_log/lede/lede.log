@@ -1,11 +1,11 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/74a59a5826862feacff9b9e9c93d28aec31aefd8...55897b73604c219c7518e14a25c51d017d5defba)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/55897b73604c219c7518e14a25c51d017d5defba...5b3fb1a5ee7884ff11149511a125fb87905effb0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-55897b736|coolsnowwolf|Sat Nov 7 01:29:55 2026 +0800|aic8800: terminate the PCI device ID table
-0f0867954|coolsnowwolf|Sat Nov 7 01:29:44 2026 +0800|qca-nss-ecm: fix netlink bind on newer stable kernels
-f421cd2b0|coolsnowwolf|Sat Nov 7 01:29:33 2026 +0800|build: skip dependencies implied by compound conditions
+5b3fb1a5e|fxfall|Sat Nov 7 16:36:43 2026 +0800|zte: add NPU VLAN/SQM support and reset button (#14278)
+8befdf1b8|coolsnowwolf|Sat Nov 7 11:32:36 2026 +0800|feeds: enable coolsnowwolf video feed
+3e55a98a1|coolsnowwolf|Sat Nov 7 11:06:21 2026 +0800|kernel: update LTS releases and Linux 7.3
 </details>
