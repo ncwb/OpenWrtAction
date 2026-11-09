@@ -1,10 +1,15 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/b4df3bda1b3a6ca83ae20247472e575dc0117d1f...7926f1c78c080eac7de8ae4caf3894979fde843a)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/luci/compare/7926f1c78c080eac7de8ae4caf3894979fde843a...4e6e9415a4872a0b4a499c9e8fae864cd4bb5910)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7926f1c78c|coolsnowwolf|Sat Nov 7 17:51:38 2026 +0800|luci-app-firewall: expose PPE binding threshold for MediaTek HNAT
-92ee82168a|github-actions[bot]|Sat Nov 7 08:48:00 2026 +0000|ci: sync upstream luci applications
+4e6e9415a4|coolsnowwolf|Mon Nov 9 02:25:43 2026 +0800|luci-mod-status: display Qualcomm Atheros vendor for QCA radios
+a33aab3a11|coolsnowwolf|Mon Nov 9 02:22:37 2026 +0800|luci-mod-network: fix carrier status for dynamic interfaces
+0a2c71f213|coolsnowwolf|Mon Nov 9 02:14:54 2026 +0800|luci-theme-design: stabilize wireless actions during polling
+84d88f3fb7|coolsnowwolf|Sun Nov 8 17:15:25 2026 +0800|luci-theme-design: fix mobile layout overflow
+168f616e4e|github-actions[bot]|Sun Nov 8 09:00:14 2026 +0000|ci: sync upstream luci applications
+57bd5cd663|coolsnowwolf|Sun Nov 8 12:15:11 2026 +0800|luci-mod-system: support exporting eMMC partitions
+47cb125b73|coolsnowwolf|Sun Nov 8 11:44:49 2026 +0800|luci-mod-network: use native iwinfo for QCA PHY bitrate
 </details>

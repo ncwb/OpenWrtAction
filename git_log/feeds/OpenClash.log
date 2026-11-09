@@ -1,0 +1,13 @@
+<details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/a6fea58c746b0138bd41a6a0dd772f19dc12df86...6e88b0e919d8026746c856a3007aafd8fc049168)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+6e88b0e9|vernesong|Sun Nov 8 00:56:12 2026 +0800|0.48.014
+06c2989b|vernesong|Sun Nov 8 00:55:25 2026 +0800|chore: refine ac card
+1736e46a|vernesong|Sun Nov 8 00:34:35 2026 +0800|fix #5390 #5391
+c73bb90f|vernesong|Sat Nov 7 22:51:54 2026 +0800|fix #5395
+2faa4fab|pickrui|Sat Nov 7 22:33:14 2026 +0800|fix: save the RAM cache after the core exits (#5396)
+</details>

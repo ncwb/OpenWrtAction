@@ -1,9 +1,9 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/edf166fb1785ca02a83632c65a6d78250407e83c...82678e8e054b274d487780fdf5d24ddb7db5b85b)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/82678e8e054b274d487780fdf5d24ddb7db5b85b...f19da54330424c54e16fd636cee5d76a2a6ee102)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-82678e8e|A-BO|Sat Nov 7 15:22:53 2026 +0800|luci: add optional node DNS extraction from Clash subscriptions
+f19da543|A-BO|Sun Nov 8 13:55:52 2026 +0800|luci: fix component update button clipping across themes
 </details>

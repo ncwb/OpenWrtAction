@@ -1,9 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/22bc97f148542e03c1de3e30d95f82107ae582f4...497b99d7b47496b3d547ccedf45d07640ca3d0e7)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/497b99d7b47496b3d547ccedf45d07640ca3d0e7...be676542771da2d8edb7abcd32eeb4d1849bc289)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-497b99d7|coolsnowwolf|Sat Nov 7 11:21:47 2026 +0800|openssh: update to 10.6p2
+be676542|coolsnowwolf|Mon Nov 9 02:16:17 2026 +0800|Merge pull request #1156 from 21hkcloud/codex/51ddns-agent-067r7-lean
+42e955c6|Jinshuan Wang|Sun Nov 8 01:29:48 2026 -0800|51ddns-agent: add remote access agent
 </details>

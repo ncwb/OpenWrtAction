@@ -1,9 +1,9 @@
 <details> <summary> <b>openwrt-passwall2 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/edef18ec550432b446423a6b61f5a086062e9bdc...7d6b5bc75185956c8cbed7a6c8c07065a04d5059)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall2/compare/7d6b5bc75185956c8cbed7a6c8c07065a04d5059...0d5a1697a926a34e661ecd0e67b0c038f9f42c4e)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-7d6b5bc|A-BO|Sat Nov 7 15:58:50 2026 +0800|luci: sync Clash subscription conversion from PassWall
+0d5a169|A-BO|Sun Nov 8 13:53:54 2026 +0800|luci: fix component update button clipping across themes
 </details>
