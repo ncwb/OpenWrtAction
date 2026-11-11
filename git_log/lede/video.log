@@ -1,0 +1,9 @@
+<details> <summary> <b>video new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/video/compare/f26911e7b605279d7dcad90b7230b002ce9a8655...a1c0945bdd677b6c1da20724e555e97861445bce)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+a1c0945|coolsnowwolf|Mon Nov 9 14:16:48 2026 +0800|mesa: avoid PowerVR transfer stack overflow on musl
+</details>

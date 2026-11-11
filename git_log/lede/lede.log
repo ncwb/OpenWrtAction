@@ -1,10 +1,9 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/5b3fb1a5ee7884ff11149511a125fb87905effb0...ff6b739d41cdc3767b266d777dfe8a87c89bff00)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/ff6b739d41cdc3767b266d777dfe8a87c89bff00...80122feac964889bc69b62420cedfefaaf701eb0)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ff6b739d4|coolsnowwolf|Sun Nov 8 17:52:35 2026 +0800|target.mk: add luci-theme-design as default theme
-112647c9c|iIl1o0O304|Sun Nov 8 16:14:46 2026 +0800|kernel: modules: netdevices: add libeth-xdp for Intel ice (#14279)
+80122feac|coolsnowwolf|Tue Nov 10 09:51:50 2026 +0800|ramips: fix HNAT netlink bind across stable kernel APIs
 </details>
