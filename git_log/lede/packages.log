@@ -1,10 +1,10 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/be676542771da2d8edb7abcd32eeb4d1849bc289...a25f30bbfcdd3cc130dc7dc5c35b9ed54e0155e8)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/packages/compare/a25f30bbfcdd3cc130dc7dc5c35b9ed54e0155e8...3e08bc51b8b0b55cae4dbec78839b6dd5972247b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-a25f30bb|github-actions[bot]|Tue Nov 10 10:02:09 2026 +0000|ci: sync upstream packages
-ac62ee3c|coolsnowwolf|Tue Nov 10 14:24:25 2026 +0800|ruby: update to 4.0.7 ruby 4.0.3 only contains ERB 6.0.1.1, which fixes CVE-2026-41316.
+3e08bc51|coolsnowwolf|Sat Nov 14 00:07:09 2026 +0800|mihomo: skip unsupported UPX compression on LoongArch
+789ce9f6|github-actions[bot]|Fri Nov 13 02:48:23 2026 +0000|ci: sync upstream packages
 </details>

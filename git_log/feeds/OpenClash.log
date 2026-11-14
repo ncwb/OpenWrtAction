@@ -1,14 +1,12 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/6e88b0e919d8026746c856a3007aafd8fc049168...6bb157916c46f852a37842a6bd824534788f82a8)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/6bb157916c46f852a37842a6bd824534788f82a8...ff30cc3b37e1cf42ccd4a72bccdfdd21e6beacae)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-6bb15791|vernesong|Thu Nov 12 00:11:12 2026 +0800|chore: add snell v6
-93189c79|vernesong|Wed Nov 11 04:42:11 2026 +0800|chore: refine
-40b1ecfa|vernesong|Tue Nov 10 12:23:28 2026 +0800|fix typo
-a0af8516|Evan|Tue Nov 10 12:00:27 2026 +0800|fix: 修复 LuCI initTabGroup 冲突报错与 myip 异常未捕获问题 (#5399)
-79027cd6|vernesong|Tue Nov 10 11:53:26 2026 +0800|fix: cm6 scroll anchor
-1a2feb68|vernesong|Mon Nov 9 18:32:59 2026 +0800|chore: module file add copy btn
+ff30cc3b|pickrui|Sat Nov 14 02:33:06 2026 +0800|feat(oix): suggest node filter after eligible login (#5405)
+69e9b8ae|vernesong|Sat Nov 14 02:31:31 2026 +0800|fix: tproxy traffic mark rules #3012
+a8ab72a0|vernesong|Fri Nov 13 11:02:29 2026 +0800|0.48.015
+74760c5b|pickrui|Fri Nov 13 10:30:13 2026 +0800|fix: preserve configuration values and use Mihomo for account requests (#5397)
 </details>
