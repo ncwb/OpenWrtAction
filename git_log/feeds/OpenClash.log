@@ -1,12 +1,9 @@
 <details> <summary> <b>OpenClash new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/6bb157916c46f852a37842a6bd824534788f82a8...ff30cc3b37e1cf42ccd4a72bccdfdd21e6beacae)  
+#### [:mega: Full Changelog. ](https://github.com/vernesong/OpenClash/compare/ff30cc3b37e1cf42ccd4a72bccdfdd21e6beacae...8e9b4671192ab14b3f828cb963c1ec240b09e679)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-ff30cc3b|pickrui|Sat Nov 14 02:33:06 2026 +0800|feat(oix): suggest node filter after eligible login (#5405)
-69e9b8ae|vernesong|Sat Nov 14 02:31:31 2026 +0800|fix: tproxy traffic mark rules #3012
-a8ab72a0|vernesong|Fri Nov 13 11:02:29 2026 +0800|0.48.015
-74760c5b|pickrui|Fri Nov 13 10:30:13 2026 +0800|fix: preserve configuration values and use Mihomo for account requests (#5397)
+8e9b4671|pickrui|Sun Nov 15 00:43:28 2026 +0800|fix(oix): preserve sign-in and recover subscription connectivity (#5406)
 </details>
