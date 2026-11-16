@@ -1,15 +1,14 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/3d3d4f3209178b0c43fbfff5e36a3bedeceeb18c...d9d7557387aab955432f72f01705f065dc4add75)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/d9d7557387aab955432f72f01705f065dc4add75...d75c7ff94b00a475db7fef465cf17155cd733131)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-d9d755738|coolsnowwolf|Sun Nov 15 16:40:49 2026 +0800|build: fix metadata for automatically gzipped images
-d7f5374b9|coolsnowwolf|Sun Nov 15 07:45:54 2026 +0800|firmware-utils: fix bcm4908asus options on macOS
-a0c958aee|coolsnowwolf|Sat Nov 14 21:23:13 2026 +0800|bcm27xx: enlarge default rootfs partition for runtime tools
-9fc7f74e4|coolsnowwolf|Sat Nov 14 16:48:26 2026 +0800|ath25: fix ELF image generation
-2ff320ada|coolsnowwolf|Sat Nov 14 14:36:02 2026 +0800|at91: restrict images to supported filesystems
-afa6274c4|coolsnowwolf|Sat Nov 14 14:18:04 2026 +0800|at91: use XZ for the SAMA5 6.18 kernel
-91f956415|coolsnowwolf|Sat Nov 14 13:50:44 2026 +0800|at91: fix native builds with current toolchains
+d75c7ff94|coolsnowwolf|Tue Nov 17 03:09:04 2026 +0800|malta: honor configured root filesystem partition size
+6d844b282|coolsnowwolf|Tue Nov 17 00:00:18 2026 +0800|tfa-layerscape: remove unused create_pbl size bookkeeping
+4983ce86b|coolsnowwolf|Mon Nov 16 18:18:31 2026 +0800|uboot-lantiq: fix comments rejected by newer GNU awk
+017c3a4a2|coolsnowwolf|Mon Nov 16 15:03:10 2026 +0800|ltq-ifxos: use kernel_bind instead of guessing socket ABI
+e5dc1a534|coolsnowwolf|Mon Nov 16 00:07:08 2026 +0800|ath10k-ct: match upstream source archive for Linux 6.18
+6a6ea2625|coolsnowwolf|Sun Nov 15 21:27:37 2026 +0800|tools: wait for bison before building elfutils
 </details>
