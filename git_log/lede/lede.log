@@ -1,14 +1,25 @@
 <details> <summary> <b>lede new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/d9d7557387aab955432f72f01705f065dc4add75...d75c7ff94b00a475db7fef465cf17155cd733131)  
+#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/d75c7ff94b00a475db7fef465cf17155cd733131...972cd0f507ea73fa2e35783c1b7c4bc0380dcd5b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-d75c7ff94|coolsnowwolf|Tue Nov 17 03:09:04 2026 +0800|malta: honor configured root filesystem partition size
-6d844b282|coolsnowwolf|Tue Nov 17 00:00:18 2026 +0800|tfa-layerscape: remove unused create_pbl size bookkeeping
-4983ce86b|coolsnowwolf|Mon Nov 16 18:18:31 2026 +0800|uboot-lantiq: fix comments rejected by newer GNU awk
-017c3a4a2|coolsnowwolf|Mon Nov 16 15:03:10 2026 +0800|ltq-ifxos: use kernel_bind instead of guessing socket ABI
-e5dc1a534|coolsnowwolf|Mon Nov 16 00:07:08 2026 +0800|ath10k-ct: match upstream source archive for Linux 6.18
-6a6ea2625|coolsnowwolf|Sun Nov 15 21:27:37 2026 +0800|tools: wait for bison before building elfutils
+972cd0f50|coolsnowwolf|Fri Nov 20 07:37:06 2026 +0800|uboot-zynq: fix host image tools on macOS arm64
+01ba61740|coolsnowwolf|Fri Nov 20 07:10:24 2026 +0800|uboot-zynq: select bootloaders for the generic subtarget
+7cdba64d7|coolsnowwolf|Fri Nov 20 06:17:29 2026 +0800|gpio-button-hotplug: avoid removed OF GPIO header on newer kernels
+0a6c76737|coolsnowwolf|Fri Nov 20 03:37:30 2026 +0800|uboot-tegra: support native macOS arm64 host tools
+e0ceff96c|coolsnowwolf|Fri Nov 20 01:17:24 2026 +0800|uboot-sunxi: support current SWIG and native Darwin builds
+0c50b9ed2|coolsnowwolf|Fri Nov 20 00:24:09 2026 +0800|arm-trusted-firmware-stm32: build stm32image on Darwin
+da58f659a|coolsnowwolf|Thu Nov 19 23:55:55 2026 +0800|docs: include cryptography in macOS native build dependencies
+9066b4b7a|coolsnowwolf|Thu Nov 19 21:14:39 2026 +0800|uboot-sifiveu: use one staged Python interpreter for host tools
+ac846d875|coolsnowwolf|Thu Nov 19 21:08:57 2026 +0800|uboot-sifiveu: migrate binman to importlib.resources
+5a24ea335|coolsnowwolf|Thu Nov 19 20:42:40 2026 +0800|uboot-sifiveu: link pylibfdt as a bundle on Darwin
+88377d893|coolsnowwolf|Thu Nov 19 20:11:50 2026 +0800|uboot-sifiveu: replace removed SWIG Python 2 compatibility macros
+240b85a19|coolsnowwolf|Thu Nov 19 19:43:15 2026 +0800|uboot-sifiveu: fix pylibfdt builds with SWIG 4.3 and later
+b9af6b874|coolsnowwolf|Thu Nov 19 16:12:19 2026 +0800|tools/7z: guard thread affinity for native macOS builds
+e013d2501|uparrows|Thu Nov 19 14:59:03 2026 +0800|Fix the known compatibility bug between iw version 6.9 and above and wpa_supplicant. (#14300)
+ca210307f|coolsnowwolf|Thu Nov 19 12:43:55 2026 +0800|rtl826x-firmware: build the host generator on macOS
+
+
 </details>
