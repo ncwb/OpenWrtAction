@@ -1,15 +1,12 @@
 <details> <summary> <b>luci-theme-vantage new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/anothaDev/luci-theme-vantage/compare/df52ecbf310e67b9ab36fc60c4a7df324427c043...17d46e2dc6d6de2e16b08777acc15bb315f4bb34)  
+#### [:mega: Full Changelog. ](https://github.com/anothaDev/luci-theme-vantage/compare/17d46e2dc6d6de2e16b08777acc15bb315f4bb34...a2e2eec03371fcd48824892301604bda8813d419)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-17d46e2|anothaDev|Thu Nov 26 20:54:38 2026 +0200|After 1.2.1: an access point leaves out the other VLANs of its uplink's wire, its own address stands, mesh peers are no clients (#176)
-fd24403|anothaDev|Wed Nov 25 12:40:34 2026 +0200|Release manifest for v1.2.1 (#172)
-a18e86c|anothaDev|Wed Nov 25 12:28:22 2026 +0200|Release 1.2.1: the uplink beside the LAN's VLANs, Wi-Fi clients on VLAN interfaces, an access point's own addresses (#171)
-df0b304|anothaDev|Wed Nov 25 12:21:21 2026 +0200|Review before 1.2.1: an access point's own address is not "not connected", and the wire stops at a line's port (#170)
-5d25748|anothaDev|Wed Nov 25 11:22:09 2026 +0200|After 1.2.0: the uplink beside the LAN's VLANs, Wi-Fi clients on VLAN interfaces, an access point's own addresses, wrapping (#169)
-6fd739d|anothaDev|Tue Nov 24 10:31:02 2026 +0200|CI: a manual job that publishes the site page again between releases (#165)
-f641a33|anothaDev|Tue Nov 24 09:05:46 2026 +0200|README, roadmap and landing page up to 1.2.0, with new screenshots (#163)
+a2e2eec|anothaDev|Fri Nov 27 15:47:30 2026 +0100|Release manifest for v1.2.2 (#181)
+0d39c7c|anothaDev|Fri Nov 27 15:26:21 2026 +0100|Release 1.2.2: an access point's own addresses on a wire with several VLANs, mesh peers, no pairing beside a listener with its own command, IPv6 in the firewall overview (#180)
+685934a|anothaDev|Fri Nov 27 15:18:13 2026 +0100|Project review: no pairing beside an SSH listener with its own command, IPv6 in the firewall overview, a silent device is not Live, signing in a job of its own (#179)
+85b66db|anothaDev|Fri Nov 27 07:41:38 2026 +0100|Review before 1.2.2: mesh peers leave every client count, a short card reaches down to the wide one under it (#177)
 </details>
